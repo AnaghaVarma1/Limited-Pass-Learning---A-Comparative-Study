@@ -1,0 +1,8 @@
+model,stage,pass_type,learner_pass_number,rows_read,expected_rows,seconds
+Shared MDL Discretizer,supervised MDL cut-point fit,preprocessing,,78038,78038,0.2705597998574376
+Naive Bayes,pass 1: parameter counts,learner,1.0,78038,78038,36.2625547000207
+KDB,pass 1: structure statistics,learner,1.0,78038,78038,169.0510944002308
+KDB,pass 2: parameter counts,learner,2.0,78038,78038,50.46590630011633
+Selective KDB,pass 1: structure statistics,learner,1.0,78038,78038,181.34240690013394
+Selective KDB,pass 2: parameter counts,learner,2.0,78038,78038,142.976801100187
+Selective KDB,pass 3: incremental LOOCV selection,learner,3.0,78038,78038,768.3291072999127
