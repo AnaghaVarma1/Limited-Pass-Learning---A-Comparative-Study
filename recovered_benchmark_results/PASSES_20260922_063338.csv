@@ -1,0 +1,385 @@
+cache_key,configuration_id,dataset,experiment,fold,model,pass_number,repeat,rows_processed,scaling_train_rows,seconds,split_id,stage
+7caac288efbd7236148f8be10ec4511b49a0cccfbab00405f058e401adfda405,47840a4e8e0e60f0,Skin Segmentation,headline,1,KDB,1,1,122528,,0.012465999999999866,"repeat=1,fold=1",kdb_structure_mi_cmi
+7caac288efbd7236148f8be10ec4511b49a0cccfbab00405f058e401adfda405,47840a4e8e0e60f0,Skin Segmentation,headline,1,KDB,2,1,122528,,0.3169751000000005,"repeat=1,fold=1",kdb_parameters
+e31422b005d5c0f9ae2b2ed38b58903b8a9f6e71bd544def446714f78877fc12,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,1,1,122528,,0.012465999999999866,"repeat=1,fold=1",kdb_structure_mi_cmi
+e31422b005d5c0f9ae2b2ed38b58903b8a9f6e71bd544def446714f78877fc12,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,2,1,122528,,0.3169751000000005,"repeat=1,fold=1",kdb_parameters
+e31422b005d5c0f9ae2b2ed38b58903b8a9f6e71bd544def446714f78877fc12,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,3,1,122528,,0.7043613000000022,"repeat=1,fold=1",skdb_incremental_loocv
+4df66753887fc1f9b5c0ad02a78b7c818b1376f3449e58b63c5a12e64043cd73,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,1,1,122528,,0.012465999999999866,"repeat=1,fold=1",kdb_structure_mi_cmi
+4df66753887fc1f9b5c0ad02a78b7c818b1376f3449e58b63c5a12e64043cd73,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,2,1,122528,,0.3169751000000005,"repeat=1,fold=1",kdb_parameters
+4df66753887fc1f9b5c0ad02a78b7c818b1376f3449e58b63c5a12e64043cd73,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,3,1,122528,,0.21199809999999886,"repeat=1,fold=1",weighted_bn_adagrad_1
+f3ed55061c5cd252518d9594d24ba5f6b7fd26c536e5885b3950376edfde2c2e,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),1,1,122528,,0.012465999999999866,"repeat=1,fold=1",kdb_structure_mi_cmi
+f3ed55061c5cd252518d9594d24ba5f6b7fd26c536e5885b3950376edfde2c2e,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),2,1,122528,,0.3169751000000005,"repeat=1,fold=1",kdb_parameters
+f3ed55061c5cd252518d9594d24ba5f6b7fd26c536e5885b3950376edfde2c2e,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),3,1,122528,,0.7043613000000022,"repeat=1,fold=1",skdb_incremental_loocv
+f3ed55061c5cd252518d9594d24ba5f6b7fd26c536e5885b3950376edfde2c2e,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),4,1,122528,,0.22050040000000237,"repeat=1,fold=1",weighted_bn_adagrad_1
+79494d5ec9a2a9874a91db8922a3ed5a28d48c098b22f3fdc1153bae85dbf9a8,47840a4e8e0e60f0,Skin Segmentation,headline,2,KDB,1,1,122529,,0.012010100000001245,"repeat=1,fold=2",kdb_structure_mi_cmi
+79494d5ec9a2a9874a91db8922a3ed5a28d48c098b22f3fdc1153bae85dbf9a8,47840a4e8e0e60f0,Skin Segmentation,headline,2,KDB,2,1,122529,,0.3662258999999999,"repeat=1,fold=2",kdb_parameters
+b69319e9c1fad5a046b726599d57fe347196d2e0f45d25036f93ee4d1e7a746a,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,1,1,122529,,0.012010100000001245,"repeat=1,fold=2",kdb_structure_mi_cmi
+b69319e9c1fad5a046b726599d57fe347196d2e0f45d25036f93ee4d1e7a746a,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,2,1,122529,,0.3662258999999999,"repeat=1,fold=2",kdb_parameters
+b69319e9c1fad5a046b726599d57fe347196d2e0f45d25036f93ee4d1e7a746a,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,3,1,122529,,0.7947535000000023,"repeat=1,fold=2",skdb_incremental_loocv
+9f915608b2a4a1cf662cfb97f7dcfc5e4f3d3f3ea9359b7630ba24434890a6d0,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,1,1,122529,,0.012010100000001245,"repeat=1,fold=2",kdb_structure_mi_cmi
+9f915608b2a4a1cf662cfb97f7dcfc5e4f3d3f3ea9359b7630ba24434890a6d0,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,2,1,122529,,0.3662258999999999,"repeat=1,fold=2",kdb_parameters
+9f915608b2a4a1cf662cfb97f7dcfc5e4f3d3f3ea9359b7630ba24434890a6d0,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,3,1,122529,,0.2666669999999982,"repeat=1,fold=2",weighted_bn_adagrad_1
+c9be0336b821e818c5a6fd826b9d3a8b683a1ee477b86f3d4e53330c5439b20d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),1,1,122529,,0.012010100000001245,"repeat=1,fold=2",kdb_structure_mi_cmi
+c9be0336b821e818c5a6fd826b9d3a8b683a1ee477b86f3d4e53330c5439b20d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),2,1,122529,,0.3662258999999999,"repeat=1,fold=2",kdb_parameters
+c9be0336b821e818c5a6fd826b9d3a8b683a1ee477b86f3d4e53330c5439b20d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),3,1,122529,,0.7947535000000023,"repeat=1,fold=2",skdb_incremental_loocv
+c9be0336b821e818c5a6fd826b9d3a8b683a1ee477b86f3d4e53330c5439b20d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),4,1,122529,,0.26647060000000167,"repeat=1,fold=2",weighted_bn_adagrad_1
+3f4e72d685dc6f05316e60e1729f5d3c6251337c8a22d248a2aaeda42f2dae00,47840a4e8e0e60f0,Skin Segmentation,headline,1,KDB,1,2,122528,,0.014992499999998188,"repeat=2,fold=1",kdb_structure_mi_cmi
+3f4e72d685dc6f05316e60e1729f5d3c6251337c8a22d248a2aaeda42f2dae00,47840a4e8e0e60f0,Skin Segmentation,headline,1,KDB,2,2,122528,,0.3322706000000011,"repeat=2,fold=1",kdb_parameters
+ce60d876470c6f198188c8c70bdf12e958fb185c140e9915d1050a3d0379c3d0,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,1,2,122528,,0.014992499999998188,"repeat=2,fold=1",kdb_structure_mi_cmi
+ce60d876470c6f198188c8c70bdf12e958fb185c140e9915d1050a3d0379c3d0,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,2,2,122528,,0.3322706000000011,"repeat=2,fold=1",kdb_parameters
+ce60d876470c6f198188c8c70bdf12e958fb185c140e9915d1050a3d0379c3d0,47840a4e8e0e60f0,Skin Segmentation,headline,1,sKDB,3,2,122528,,0.7098851999999951,"repeat=2,fold=1",skdb_incremental_loocv
+422bdd0ed7b75dc0f5f1c689d7d5a941cc961f5ed51a77923f0a0b4c6ba7a9e3,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,1,2,122528,,0.014992499999998188,"repeat=2,fold=1",kdb_structure_mi_cmi
+422bdd0ed7b75dc0f5f1c689d7d5a941cc961f5ed51a77923f0a0b4c6ba7a9e3,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,2,2,122528,,0.3322706000000011,"repeat=2,fold=1",kdb_parameters
+422bdd0ed7b75dc0f5f1c689d7d5a941cc961f5ed51a77923f0a0b4c6ba7a9e3,47840a4e8e0e60f0,Skin Segmentation,headline,1,dKDB,3,2,122528,,0.2429680999999988,"repeat=2,fold=1",weighted_bn_adagrad_1
+a25f522d8efcaf36f58e3cea0b112b43f00e2fe38dcc791210c46cc30b291a3b,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),1,2,122528,,0.014992499999998188,"repeat=2,fold=1",kdb_structure_mi_cmi
+a25f522d8efcaf36f58e3cea0b112b43f00e2fe38dcc791210c46cc30b291a3b,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),2,2,122528,,0.3322706000000011,"repeat=2,fold=1",kdb_parameters
+a25f522d8efcaf36f58e3cea0b112b43f00e2fe38dcc791210c46cc30b291a3b,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),3,2,122528,,0.7098851999999951,"repeat=2,fold=1",skdb_incremental_loocv
+a25f522d8efcaf36f58e3cea0b112b43f00e2fe38dcc791210c46cc30b291a3b,47840a4e8e0e60f0,Skin Segmentation,headline,1,sdKDB (experimental/unpublished),4,2,122528,,0.2461079000000055,"repeat=2,fold=1",weighted_bn_adagrad_1
+d3fe0fa00f052e33822ece3ea3a3b4f1c8d3d91632fcb23951ef81b3e2b362e7,47840a4e8e0e60f0,Skin Segmentation,headline,2,KDB,1,2,122529,,0.01420219999999972,"repeat=2,fold=2",kdb_structure_mi_cmi
+d3fe0fa00f052e33822ece3ea3a3b4f1c8d3d91632fcb23951ef81b3e2b362e7,47840a4e8e0e60f0,Skin Segmentation,headline,2,KDB,2,2,122529,,0.3380286999999953,"repeat=2,fold=2",kdb_parameters
+5b5eaf6786ec18d4df07e455ce499b38cfc928a0cb8ed6cf979e3c5be0c08f69,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,1,2,122529,,0.01420219999999972,"repeat=2,fold=2",kdb_structure_mi_cmi
+5b5eaf6786ec18d4df07e455ce499b38cfc928a0cb8ed6cf979e3c5be0c08f69,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,2,2,122529,,0.3380286999999953,"repeat=2,fold=2",kdb_parameters
+5b5eaf6786ec18d4df07e455ce499b38cfc928a0cb8ed6cf979e3c5be0c08f69,47840a4e8e0e60f0,Skin Segmentation,headline,2,sKDB,3,2,122529,,0.8084902000000014,"repeat=2,fold=2",skdb_incremental_loocv
+99525fc3a0dc4a72de07bedac090fc62434e3258408ba5be5a427bb11c9df1e6,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,1,2,122529,,0.01420219999999972,"repeat=2,fold=2",kdb_structure_mi_cmi
+99525fc3a0dc4a72de07bedac090fc62434e3258408ba5be5a427bb11c9df1e6,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,2,2,122529,,0.3380286999999953,"repeat=2,fold=2",kdb_parameters
+99525fc3a0dc4a72de07bedac090fc62434e3258408ba5be5a427bb11c9df1e6,47840a4e8e0e60f0,Skin Segmentation,headline,2,dKDB,3,2,122529,,0.2629461000000006,"repeat=2,fold=2",weighted_bn_adagrad_1
+6277b2525e2c61c7515c64b0cd628171431d155c2b45513d1fc1b6d502c3260d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),1,2,122529,,0.01420219999999972,"repeat=2,fold=2",kdb_structure_mi_cmi
+6277b2525e2c61c7515c64b0cd628171431d155c2b45513d1fc1b6d502c3260d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),2,2,122529,,0.3380286999999953,"repeat=2,fold=2",kdb_parameters
+6277b2525e2c61c7515c64b0cd628171431d155c2b45513d1fc1b6d502c3260d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),3,2,122529,,0.8084902000000014,"repeat=2,fold=2",skdb_incremental_loocv
+6277b2525e2c61c7515c64b0cd628171431d155c2b45513d1fc1b6d502c3260d,47840a4e8e0e60f0,Skin Segmentation,headline,2,sdKDB (experimental/unpublished),4,2,122529,,0.25117039999999946,"repeat=2,fold=2",weighted_bn_adagrad_1
+687f3783fe6409777ed8638423da20d6920e2ac7cf9723417f448d9f751a2bb7,47840a4e8e0e60f0,MiniBooNE,headline,1,KDB,1,1,65032,,3.091485200000008,"repeat=1,fold=1",kdb_structure_mi_cmi
+687f3783fe6409777ed8638423da20d6920e2ac7cf9723417f448d9f751a2bb7,47840a4e8e0e60f0,MiniBooNE,headline,1,KDB,2,1,65032,,35.34671200000001,"repeat=1,fold=1",kdb_parameters
+f8a59eec0178d23248713f6a33d589543e2cfa95e9d59a7cb104727be6426751,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,1,1,65032,,3.091485200000008,"repeat=1,fold=1",kdb_structure_mi_cmi
+f8a59eec0178d23248713f6a33d589543e2cfa95e9d59a7cb104727be6426751,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,2,1,65032,,35.34671200000001,"repeat=1,fold=1",kdb_parameters
+f8a59eec0178d23248713f6a33d589543e2cfa95e9d59a7cb104727be6426751,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,3,1,65032,,54.96124239999999,"repeat=1,fold=1",skdb_incremental_loocv
+bee817a63d5050ecacf8ec34a6a76cbc1b0d597306720c2440be46e64d0e0309,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,1,1,65032,,3.5629328000000022,"repeat=1,fold=1",kdb_structure_mi_cmi
+bee817a63d5050ecacf8ec34a6a76cbc1b0d597306720c2440be46e64d0e0309,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,2,1,65032,,43.8845809,"repeat=1,fold=1",kdb_parameters
+bee817a63d5050ecacf8ec34a6a76cbc1b0d597306720c2440be46e64d0e0309,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,3,1,65032,,13.825051099999996,"repeat=1,fold=1",weighted_bn_adagrad_1
+f1502c8345ebf1af4ee229db21c16deac0698d62d56a2f8a058115749a641c6b,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),1,1,65032,,3.5629328000000022,"repeat=1,fold=1",kdb_structure_mi_cmi
+f1502c8345ebf1af4ee229db21c16deac0698d62d56a2f8a058115749a641c6b,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),2,1,65032,,43.8845809,"repeat=1,fold=1",kdb_parameters
+f1502c8345ebf1af4ee229db21c16deac0698d62d56a2f8a058115749a641c6b,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),3,1,65032,,62.47310949999999,"repeat=1,fold=1",skdb_incremental_loocv
+f1502c8345ebf1af4ee229db21c16deac0698d62d56a2f8a058115749a641c6b,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),4,1,65032,,4.131794500000012,"repeat=1,fold=1",weighted_bn_adagrad_1
+406aab8fa60bf4bf48040980b903f88916064817b893eb38af6467c5a9f422f9,47840a4e8e0e60f0,MiniBooNE,headline,2,KDB,1,1,65032,,3.703268699999967,"repeat=1,fold=2",kdb_structure_mi_cmi
+406aab8fa60bf4bf48040980b903f88916064817b893eb38af6467c5a9f422f9,47840a4e8e0e60f0,MiniBooNE,headline,2,KDB,2,1,65032,,46.699529400000074,"repeat=1,fold=2",kdb_parameters
+299abff087a4552aaa732cc975a11696320775c84f4721146d2809de8978d13b,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,1,1,65032,,3.703268699999967,"repeat=1,fold=2",kdb_structure_mi_cmi
+299abff087a4552aaa732cc975a11696320775c84f4721146d2809de8978d13b,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,2,1,65032,,46.699529400000074,"repeat=1,fold=2",kdb_parameters
+299abff087a4552aaa732cc975a11696320775c84f4721146d2809de8978d13b,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,3,1,65032,,67.94975390000002,"repeat=1,fold=2",skdb_incremental_loocv
+6d61b7c04d129c2f1d63f91bd45a702696f1e5a0fd29d3966715c76878adaa34,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,1,1,65032,,3.703268699999967,"repeat=1,fold=2",kdb_structure_mi_cmi
+6d61b7c04d129c2f1d63f91bd45a702696f1e5a0fd29d3966715c76878adaa34,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,2,1,65032,,46.699529400000074,"repeat=1,fold=2",kdb_parameters
+6d61b7c04d129c2f1d63f91bd45a702696f1e5a0fd29d3966715c76878adaa34,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,3,1,65032,,14.637946300000067,"repeat=1,fold=2",weighted_bn_adagrad_1
+0f0c0bbe9e1518cdc70f871a407065b0fe221833afe37adfb2fcfe3e1fc3bcae,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),1,1,65032,,3.703268699999967,"repeat=1,fold=2",kdb_structure_mi_cmi
+0f0c0bbe9e1518cdc70f871a407065b0fe221833afe37adfb2fcfe3e1fc3bcae,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),2,1,65032,,46.699529400000074,"repeat=1,fold=2",kdb_parameters
+0f0c0bbe9e1518cdc70f871a407065b0fe221833afe37adfb2fcfe3e1fc3bcae,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),3,1,65032,,67.94975390000002,"repeat=1,fold=2",skdb_incremental_loocv
+0f0c0bbe9e1518cdc70f871a407065b0fe221833afe37adfb2fcfe3e1fc3bcae,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),4,1,65032,,4.349581699999931,"repeat=1,fold=2",weighted_bn_adagrad_1
+bc3395a4325467fea3156df79b2b03923d54a13e9262cd1a145882466a8a65c9,47840a4e8e0e60f0,MiniBooNE,headline,1,KDB,1,2,65032,,3.4505795000000035,"repeat=2,fold=1",kdb_structure_mi_cmi
+bc3395a4325467fea3156df79b2b03923d54a13e9262cd1a145882466a8a65c9,47840a4e8e0e60f0,MiniBooNE,headline,1,KDB,2,2,65032,,43.670377500000086,"repeat=2,fold=1",kdb_parameters
+ab91e14f60c2944a534153a6f3350396d75217a362503f3fd2d8674cda76f240,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,1,2,65032,,3.4505795000000035,"repeat=2,fold=1",kdb_structure_mi_cmi
+ab91e14f60c2944a534153a6f3350396d75217a362503f3fd2d8674cda76f240,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,2,2,65032,,43.670377500000086,"repeat=2,fold=1",kdb_parameters
+ab91e14f60c2944a534153a6f3350396d75217a362503f3fd2d8674cda76f240,47840a4e8e0e60f0,MiniBooNE,headline,1,sKDB,3,2,65032,,66.2655787000001,"repeat=2,fold=1",skdb_incremental_loocv
+2d703cd6cd1f6b6919ce168857f3075657f94204aecaf74e5fcae586a58c6f2e,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,1,2,65032,,3.5803414999999994,"repeat=2,fold=1",kdb_structure_mi_cmi
+2d703cd6cd1f6b6919ce168857f3075657f94204aecaf74e5fcae586a58c6f2e,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,2,2,65032,,34.9499608,"repeat=2,fold=1",kdb_parameters
+2d703cd6cd1f6b6919ce168857f3075657f94204aecaf74e5fcae586a58c6f2e,47840a4e8e0e60f0,MiniBooNE,headline,1,dKDB,3,2,65032,,12.871876299999997,"repeat=2,fold=1",weighted_bn_adagrad_1
+e94e25f58c8203da63fda6051dab986d5125f976ecdd47b28179054bc786bbdf,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),1,2,65032,,3.5803414999999994,"repeat=2,fold=1",kdb_structure_mi_cmi
+e94e25f58c8203da63fda6051dab986d5125f976ecdd47b28179054bc786bbdf,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),2,2,65032,,34.9499608,"repeat=2,fold=1",kdb_parameters
+e94e25f58c8203da63fda6051dab986d5125f976ecdd47b28179054bc786bbdf,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),3,2,65032,,55.288131,"repeat=2,fold=1",skdb_incremental_loocv
+e94e25f58c8203da63fda6051dab986d5125f976ecdd47b28179054bc786bbdf,47840a4e8e0e60f0,MiniBooNE,headline,1,sdKDB (experimental/unpublished),4,2,65032,,3.419208699999956,"repeat=2,fold=1",weighted_bn_adagrad_1
+dee932ee896641148ea58ef1a72faa8717d4822bf9f3ea255c60873eef85f2cb,47840a4e8e0e60f0,MiniBooNE,headline,2,KDB,1,2,65032,,3.452604199999996,"repeat=2,fold=2",kdb_structure_mi_cmi
+dee932ee896641148ea58ef1a72faa8717d4822bf9f3ea255c60873eef85f2cb,47840a4e8e0e60f0,MiniBooNE,headline,2,KDB,2,2,65032,,42.448263,"repeat=2,fold=2",kdb_parameters
+8914206666d496eec4582e620ca3a9d5aaa34125423020ca842d4861f9edbda1,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,1,2,65032,,3.452604199999996,"repeat=2,fold=2",kdb_structure_mi_cmi
+8914206666d496eec4582e620ca3a9d5aaa34125423020ca842d4861f9edbda1,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,2,2,65032,,42.448263,"repeat=2,fold=2",kdb_parameters
+8914206666d496eec4582e620ca3a9d5aaa34125423020ca842d4861f9edbda1,47840a4e8e0e60f0,MiniBooNE,headline,2,sKDB,3,2,65032,,65.26658199999997,"repeat=2,fold=2",skdb_incremental_loocv
+ef614519b500b9f5f560bb908ca57734a823590dbc7ba4bf9f5a50c51b747dd8,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,1,2,65032,,3.452604199999996,"repeat=2,fold=2",kdb_structure_mi_cmi
+ef614519b500b9f5f560bb908ca57734a823590dbc7ba4bf9f5a50c51b747dd8,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,2,2,65032,,42.448263,"repeat=2,fold=2",kdb_parameters
+ef614519b500b9f5f560bb908ca57734a823590dbc7ba4bf9f5a50c51b747dd8,47840a4e8e0e60f0,MiniBooNE,headline,2,dKDB,3,2,65032,,14.804054599999972,"repeat=2,fold=2",weighted_bn_adagrad_1
+dac0e431b354ca4d7a808a5a614b77155e65b5a8d6228fe70c620d18a211bcab,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),1,2,65032,,3.452604199999996,"repeat=2,fold=2",kdb_structure_mi_cmi
+dac0e431b354ca4d7a808a5a614b77155e65b5a8d6228fe70c620d18a211bcab,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),2,2,65032,,42.448263,"repeat=2,fold=2",kdb_parameters
+dac0e431b354ca4d7a808a5a614b77155e65b5a8d6228fe70c620d18a211bcab,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),3,2,65032,,65.26658199999997,"repeat=2,fold=2",skdb_incremental_loocv
+dac0e431b354ca4d7a808a5a614b77155e65b5a8d6228fe70c620d18a211bcab,47840a4e8e0e60f0,MiniBooNE,headline,2,sdKDB (experimental/unpublished),4,2,65032,,3.9715426999999863,"repeat=2,fold=2",weighted_bn_adagrad_1
+5e9d5e501a673c2a1c1825b8dfb9f35393e59c8e6472b933d264ad4766f4ea72,47840a4e8e0e60f0,cod-rna,headline,1,KDB,1,1,244282,,0.2672081000000617,"repeat=1,fold=1",kdb_structure_mi_cmi
+5e9d5e501a673c2a1c1825b8dfb9f35393e59c8e6472b933d264ad4766f4ea72,47840a4e8e0e60f0,cod-rna,headline,1,KDB,2,1,244282,,7.743435900000122,"repeat=1,fold=1",kdb_parameters
+d3d558c78c41da92d3535b91fdc31dc652d3f92ef4a225aa746eefdc43b781ae,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,1,1,244282,,0.2672081000000617,"repeat=1,fold=1",kdb_structure_mi_cmi
+d3d558c78c41da92d3535b91fdc31dc652d3f92ef4a225aa746eefdc43b781ae,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,2,1,244282,,7.743435900000122,"repeat=1,fold=1",kdb_parameters
+d3d558c78c41da92d3535b91fdc31dc652d3f92ef4a225aa746eefdc43b781ae,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,3,1,244282,,9.30809179999983,"repeat=1,fold=1",skdb_incremental_loocv
+505b56c11deed360ab8ce4c1c733355efb2fc1e68aa2d93e3312bf8f37f1e521,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,1,1,244282,,0.2672081000000617,"repeat=1,fold=1",kdb_structure_mi_cmi
+505b56c11deed360ab8ce4c1c733355efb2fc1e68aa2d93e3312bf8f37f1e521,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,2,1,244282,,7.743435900000122,"repeat=1,fold=1",kdb_parameters
+505b56c11deed360ab8ce4c1c733355efb2fc1e68aa2d93e3312bf8f37f1e521,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,3,1,244282,,2.454988100000037,"repeat=1,fold=1",weighted_bn_adagrad_1
+3db1017b3a1b3140e7b0f5890048787c3fe3c89a15aa93870ecb551b8b94b64f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),1,1,244282,,0.2672081000000617,"repeat=1,fold=1",kdb_structure_mi_cmi
+3db1017b3a1b3140e7b0f5890048787c3fe3c89a15aa93870ecb551b8b94b64f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),2,1,244282,,7.743435900000122,"repeat=1,fold=1",kdb_parameters
+3db1017b3a1b3140e7b0f5890048787c3fe3c89a15aa93870ecb551b8b94b64f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),3,1,244282,,9.30809179999983,"repeat=1,fold=1",skdb_incremental_loocv
+3db1017b3a1b3140e7b0f5890048787c3fe3c89a15aa93870ecb551b8b94b64f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),4,1,244282,,0.031352399999832414,"repeat=1,fold=1",weighted_bn_adagrad_1
+5a49689115a4e2a3796390e72eb9136db1f5288b6127ce2435f57acd6826a53d,47840a4e8e0e60f0,cod-rna,headline,2,KDB,1,1,244283,,0.33056519999990996,"repeat=1,fold=2",kdb_structure_mi_cmi
+5a49689115a4e2a3796390e72eb9136db1f5288b6127ce2435f57acd6826a53d,47840a4e8e0e60f0,cod-rna,headline,2,KDB,2,1,244283,,7.96305540000003,"repeat=1,fold=2",kdb_parameters
+7bfd34a46b7a2119895879a5b71d982557da4cb6dbe4032c5e7293e7da5b5e45,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,1,1,244283,,0.33056519999990996,"repeat=1,fold=2",kdb_structure_mi_cmi
+7bfd34a46b7a2119895879a5b71d982557da4cb6dbe4032c5e7293e7da5b5e45,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,2,1,244283,,7.96305540000003,"repeat=1,fold=2",kdb_parameters
+7bfd34a46b7a2119895879a5b71d982557da4cb6dbe4032c5e7293e7da5b5e45,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,3,1,244283,,9.646415299999944,"repeat=1,fold=2",skdb_incremental_loocv
+73fb083abede7356dc23ab535310842a312400e402d52c6f8b2554d95c88a47b,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,1,1,244283,,0.33056519999990996,"repeat=1,fold=2",kdb_structure_mi_cmi
+73fb083abede7356dc23ab535310842a312400e402d52c6f8b2554d95c88a47b,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,2,1,244283,,7.96305540000003,"repeat=1,fold=2",kdb_parameters
+73fb083abede7356dc23ab535310842a312400e402d52c6f8b2554d95c88a47b,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,3,1,244283,,2.7007401999999274,"repeat=1,fold=2",weighted_bn_adagrad_1
+28b2d92bf0388121e1e8c2baa5fad5f48e487a66508a783b7e786a5b56755bff,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),1,1,244283,,0.33056519999990996,"repeat=1,fold=2",kdb_structure_mi_cmi
+28b2d92bf0388121e1e8c2baa5fad5f48e487a66508a783b7e786a5b56755bff,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),2,1,244283,,7.96305540000003,"repeat=1,fold=2",kdb_parameters
+28b2d92bf0388121e1e8c2baa5fad5f48e487a66508a783b7e786a5b56755bff,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),3,1,244283,,9.646415299999944,"repeat=1,fold=2",skdb_incremental_loocv
+28b2d92bf0388121e1e8c2baa5fad5f48e487a66508a783b7e786a5b56755bff,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),4,1,244283,,0.040844500000048356,"repeat=1,fold=2",weighted_bn_adagrad_1
+dea48efa6ef0fe938f868242d3217f8935d19f009f1dc8cd9f72f1ca0cbec7b3,47840a4e8e0e60f0,cod-rna,headline,1,KDB,1,2,244282,,0.26116959999990286,"repeat=2,fold=1",kdb_structure_mi_cmi
+dea48efa6ef0fe938f868242d3217f8935d19f009f1dc8cd9f72f1ca0cbec7b3,47840a4e8e0e60f0,cod-rna,headline,1,KDB,2,2,244282,,7.794795400000112,"repeat=2,fold=1",kdb_parameters
+56749f545a21894e4ad324ea0d65ca7e13b0b5320e8bf9ec99a833b3986d9830,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,1,2,244282,,0.26116959999990286,"repeat=2,fold=1",kdb_structure_mi_cmi
+56749f545a21894e4ad324ea0d65ca7e13b0b5320e8bf9ec99a833b3986d9830,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,2,2,244282,,7.794795400000112,"repeat=2,fold=1",kdb_parameters
+56749f545a21894e4ad324ea0d65ca7e13b0b5320e8bf9ec99a833b3986d9830,47840a4e8e0e60f0,cod-rna,headline,1,sKDB,3,2,244282,,9.582231599999886,"repeat=2,fold=1",skdb_incremental_loocv
+e20040313af4547136a8b7af6860a3f9a3e40dbe3d5ae46668ee4bfb6d01241d,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,1,2,244282,,0.26116959999990286,"repeat=2,fold=1",kdb_structure_mi_cmi
+e20040313af4547136a8b7af6860a3f9a3e40dbe3d5ae46668ee4bfb6d01241d,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,2,2,244282,,7.794795400000112,"repeat=2,fold=1",kdb_parameters
+e20040313af4547136a8b7af6860a3f9a3e40dbe3d5ae46668ee4bfb6d01241d,47840a4e8e0e60f0,cod-rna,headline,1,dKDB,3,2,244282,,2.4175308000001223,"repeat=2,fold=1",weighted_bn_adagrad_1
+cc264bd3e1bc2c0c3d725687085b6df3aa7b7efd2ce4d008a656cfe17469557f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),1,2,244282,,0.26116959999990286,"repeat=2,fold=1",kdb_structure_mi_cmi
+cc264bd3e1bc2c0c3d725687085b6df3aa7b7efd2ce4d008a656cfe17469557f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),2,2,244282,,7.794795400000112,"repeat=2,fold=1",kdb_parameters
+cc264bd3e1bc2c0c3d725687085b6df3aa7b7efd2ce4d008a656cfe17469557f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),3,2,244282,,9.582231599999886,"repeat=2,fold=1",skdb_incremental_loocv
+cc264bd3e1bc2c0c3d725687085b6df3aa7b7efd2ce4d008a656cfe17469557f,47840a4e8e0e60f0,cod-rna,headline,1,sdKDB (experimental/unpublished),4,2,244282,,0.04160249999995358,"repeat=2,fold=1",weighted_bn_adagrad_1
+95cb0a1393312254366570e079292cc35b970359d03022303f3752812487f3de,47840a4e8e0e60f0,cod-rna,headline,2,KDB,1,2,244283,,0.3276842000000215,"repeat=2,fold=2",kdb_structure_mi_cmi
+95cb0a1393312254366570e079292cc35b970359d03022303f3752812487f3de,47840a4e8e0e60f0,cod-rna,headline,2,KDB,2,2,244283,,7.735893799999985,"repeat=2,fold=2",kdb_parameters
+a2ff82db226ebae3efa521d2a3331c052e430fc9080a608a0178e06132850bb2,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,1,2,244283,,0.3276842000000215,"repeat=2,fold=2",kdb_structure_mi_cmi
+a2ff82db226ebae3efa521d2a3331c052e430fc9080a608a0178e06132850bb2,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,2,2,244283,,7.735893799999985,"repeat=2,fold=2",kdb_parameters
+a2ff82db226ebae3efa521d2a3331c052e430fc9080a608a0178e06132850bb2,47840a4e8e0e60f0,cod-rna,headline,2,sKDB,3,2,244283,,9.607152600000063,"repeat=2,fold=2",skdb_incremental_loocv
+68f5011602ab99ebd2d030787191fa032306b91571612f03e38f652510a1ebfd,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,1,2,244283,,0.3276842000000215,"repeat=2,fold=2",kdb_structure_mi_cmi
+68f5011602ab99ebd2d030787191fa032306b91571612f03e38f652510a1ebfd,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,2,2,244283,,7.735893799999985,"repeat=2,fold=2",kdb_parameters
+68f5011602ab99ebd2d030787191fa032306b91571612f03e38f652510a1ebfd,47840a4e8e0e60f0,cod-rna,headline,2,dKDB,3,2,244283,,2.6463185999998586,"repeat=2,fold=2",weighted_bn_adagrad_1
+5d55ef96b6be9c74f79703e342611f3977a5017a323bc9d791224e9db187498c,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),1,2,244283,,0.3276842000000215,"repeat=2,fold=2",kdb_structure_mi_cmi
+5d55ef96b6be9c74f79703e342611f3977a5017a323bc9d791224e9db187498c,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),2,2,244283,,7.735893799999985,"repeat=2,fold=2",kdb_parameters
+5d55ef96b6be9c74f79703e342611f3977a5017a323bc9d791224e9db187498c,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),3,2,244283,,9.607152600000063,"repeat=2,fold=2",skdb_incremental_loocv
+5d55ef96b6be9c74f79703e342611f3977a5017a323bc9d791224e9db187498c,47840a4e8e0e60f0,cod-rna,headline,2,sdKDB (experimental/unpublished),4,2,244283,,0.04135020000012446,"repeat=2,fold=2",weighted_bn_adagrad_1
+9b94b073af6bdd94758cfe10cf305e169961d36c2b15d3c3014f3b836733bdd9,47840a4e8e0e60f0,Covertype,headline,1,KDB,1,1,290506,,14.939748100000088,"repeat=1,fold=1",kdb_structure_mi_cmi
+9b94b073af6bdd94758cfe10cf305e169961d36c2b15d3c3014f3b836733bdd9,47840a4e8e0e60f0,Covertype,headline,1,KDB,2,1,290506,,143.73508199999992,"repeat=1,fold=1",kdb_parameters
+703ca37e96133617107da4312fe89418dd76ab7561e38119ac556592859d8135,47840a4e8e0e60f0,Covertype,headline,1,sKDB,1,1,290506,,14.939748100000088,"repeat=1,fold=1",kdb_structure_mi_cmi
+703ca37e96133617107da4312fe89418dd76ab7561e38119ac556592859d8135,47840a4e8e0e60f0,Covertype,headline,1,sKDB,2,1,290506,,143.73508199999992,"repeat=1,fold=1",kdb_parameters
+703ca37e96133617107da4312fe89418dd76ab7561e38119ac556592859d8135,47840a4e8e0e60f0,Covertype,headline,1,sKDB,3,1,290506,,298.4923642000001,"repeat=1,fold=1",skdb_incremental_loocv
+d6db1372d935a5c3cbeaf2ecd363d9ed0a43f1ee31560a36d32acd5f7b44e898,47840a4e8e0e60f0,Covertype,headline,1,dKDB,1,1,290506,,14.939748100000088,"repeat=1,fold=1",kdb_structure_mi_cmi
+d6db1372d935a5c3cbeaf2ecd363d9ed0a43f1ee31560a36d32acd5f7b44e898,47840a4e8e0e60f0,Covertype,headline,1,dKDB,2,1,290506,,143.73508199999992,"repeat=1,fold=1",kdb_parameters
+d6db1372d935a5c3cbeaf2ecd363d9ed0a43f1ee31560a36d32acd5f7b44e898,47840a4e8e0e60f0,Covertype,headline,1,dKDB,3,1,290506,,55.12247369999977,"repeat=1,fold=1",weighted_bn_adagrad_1
+aee9efe236f5cfe66087ab47a7b4a9b5739cbd90fa5a93aec22958bc435f03e9,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),1,1,290506,,14.939748100000088,"repeat=1,fold=1",kdb_structure_mi_cmi
+aee9efe236f5cfe66087ab47a7b4a9b5739cbd90fa5a93aec22958bc435f03e9,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),2,1,290506,,143.73508199999992,"repeat=1,fold=1",kdb_parameters
+aee9efe236f5cfe66087ab47a7b4a9b5739cbd90fa5a93aec22958bc435f03e9,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),3,1,290506,,298.4923642000001,"repeat=1,fold=1",skdb_incremental_loocv
+aee9efe236f5cfe66087ab47a7b4a9b5739cbd90fa5a93aec22958bc435f03e9,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),4,1,290506,,54.959541199999876,"repeat=1,fold=1",weighted_bn_adagrad_1
+c3a8c22499f0e531ef1c4e3982dca80c57fb8b8e00ae1bc683c174e4ada6f36d,47840a4e8e0e60f0,Covertype,headline,2,KDB,1,1,290506,,19.880529599999136,"repeat=1,fold=2",kdb_structure_mi_cmi
+c3a8c22499f0e531ef1c4e3982dca80c57fb8b8e00ae1bc683c174e4ada6f36d,47840a4e8e0e60f0,Covertype,headline,2,KDB,2,1,290506,,231.86717320000025,"repeat=1,fold=2",kdb_parameters
+08a95bbaaae89bd7f99a8b6845314803562c63d38ab95a3a192ced95835d055e,47840a4e8e0e60f0,Covertype,headline,2,sKDB,1,1,290506,,19.880529599999136,"repeat=1,fold=2",kdb_structure_mi_cmi
+08a95bbaaae89bd7f99a8b6845314803562c63d38ab95a3a192ced95835d055e,47840a4e8e0e60f0,Covertype,headline,2,sKDB,2,1,290506,,231.86717320000025,"repeat=1,fold=2",kdb_parameters
+08a95bbaaae89bd7f99a8b6845314803562c63d38ab95a3a192ced95835d055e,47840a4e8e0e60f0,Covertype,headline,2,sKDB,3,1,290506,,290.6156206000005,"repeat=1,fold=2",skdb_incremental_loocv
+a594968d4a00c60c0c5add77f4ccef0a83b14a111a75133a663227ff38c04576,47840a4e8e0e60f0,Covertype,headline,2,dKDB,1,1,290506,,19.880529599999136,"repeat=1,fold=2",kdb_structure_mi_cmi
+a594968d4a00c60c0c5add77f4ccef0a83b14a111a75133a663227ff38c04576,47840a4e8e0e60f0,Covertype,headline,2,dKDB,2,1,290506,,231.86717320000025,"repeat=1,fold=2",kdb_parameters
+a594968d4a00c60c0c5add77f4ccef0a83b14a111a75133a663227ff38c04576,47840a4e8e0e60f0,Covertype,headline,2,dKDB,3,1,290506,,46.84070109999993,"repeat=1,fold=2",weighted_bn_adagrad_1
+776ea2a7694cf08bb2ee078bee8aec69b8661180c945db62bf2073abb50a76fc,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),1,1,290506,,19.880529599999136,"repeat=1,fold=2",kdb_structure_mi_cmi
+776ea2a7694cf08bb2ee078bee8aec69b8661180c945db62bf2073abb50a76fc,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),2,1,290506,,231.86717320000025,"repeat=1,fold=2",kdb_parameters
+776ea2a7694cf08bb2ee078bee8aec69b8661180c945db62bf2073abb50a76fc,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),3,1,290506,,290.6156206000005,"repeat=1,fold=2",skdb_incremental_loocv
+776ea2a7694cf08bb2ee078bee8aec69b8661180c945db62bf2073abb50a76fc,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),4,1,290506,,80.62327199999982,"repeat=1,fold=2",weighted_bn_adagrad_1
+fb0ee3a938e50218e53a39ce0c53668ab2804cea9bedf5bc756446e0cc9bbd22,47840a4e8e0e60f0,Covertype,headline,1,KDB,1,2,290506,,19.94135009999991,"repeat=2,fold=1",kdb_structure_mi_cmi
+fb0ee3a938e50218e53a39ce0c53668ab2804cea9bedf5bc756446e0cc9bbd22,47840a4e8e0e60f0,Covertype,headline,1,KDB,2,2,290506,,265.1203423999996,"repeat=2,fold=1",kdb_parameters
+c339e6ad18d7c64511e9a66174fc001152e85bc60f6fc3a6d4883fbed6881ccb,47840a4e8e0e60f0,Covertype,headline,1,sKDB,1,2,290506,,19.94135009999991,"repeat=2,fold=1",kdb_structure_mi_cmi
+c339e6ad18d7c64511e9a66174fc001152e85bc60f6fc3a6d4883fbed6881ccb,47840a4e8e0e60f0,Covertype,headline,1,sKDB,2,2,290506,,265.1203423999996,"repeat=2,fold=1",kdb_parameters
+c339e6ad18d7c64511e9a66174fc001152e85bc60f6fc3a6d4883fbed6881ccb,47840a4e8e0e60f0,Covertype,headline,1,sKDB,3,2,290506,,365.40345409999827,"repeat=2,fold=1",skdb_incremental_loocv
+2555a555aa4ee8c288d7c30b5f15e71f97147b1195866df635df572cb799bfab,47840a4e8e0e60f0,Covertype,headline,1,dKDB,1,2,290506,,19.94135009999991,"repeat=2,fold=1",kdb_structure_mi_cmi
+2555a555aa4ee8c288d7c30b5f15e71f97147b1195866df635df572cb799bfab,47840a4e8e0e60f0,Covertype,headline,1,dKDB,2,2,290506,,265.1203423999996,"repeat=2,fold=1",kdb_parameters
+2555a555aa4ee8c288d7c30b5f15e71f97147b1195866df635df572cb799bfab,47840a4e8e0e60f0,Covertype,headline,1,dKDB,3,2,290506,,83.17787649999991,"repeat=2,fold=1",weighted_bn_adagrad_1
+f1e8e161f886c9f3960cf516c6c3fd2a1356b87a652aaed59afaa3d667b24217,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),1,2,290506,,19.94135009999991,"repeat=2,fold=1",kdb_structure_mi_cmi
+f1e8e161f886c9f3960cf516c6c3fd2a1356b87a652aaed59afaa3d667b24217,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),2,2,290506,,265.1203423999996,"repeat=2,fold=1",kdb_parameters
+f1e8e161f886c9f3960cf516c6c3fd2a1356b87a652aaed59afaa3d667b24217,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),3,2,290506,,365.40345409999827,"repeat=2,fold=1",skdb_incremental_loocv
+f1e8e161f886c9f3960cf516c6c3fd2a1356b87a652aaed59afaa3d667b24217,47840a4e8e0e60f0,Covertype,headline,1,sdKDB (experimental/unpublished),4,2,290506,,87.6693223000002,"repeat=2,fold=1",weighted_bn_adagrad_1
+0e0c93c4ccf768227defd6a1bf042f4c27be1808b593ab2ddb18339958bd2fde,47840a4e8e0e60f0,Covertype,headline,2,KDB,1,2,290506,,20.606132299999445,"repeat=2,fold=2",kdb_structure_mi_cmi
+0e0c93c4ccf768227defd6a1bf042f4c27be1808b593ab2ddb18339958bd2fde,47840a4e8e0e60f0,Covertype,headline,2,KDB,2,2,290506,,287.86536049999995,"repeat=2,fold=2",kdb_parameters
+a5abfef4e09d135b3c1cfecab951548ce2128dd7842f47f41be055df0aed6e89,47840a4e8e0e60f0,Covertype,headline,2,sKDB,1,2,290506,,20.606132299999445,"repeat=2,fold=2",kdb_structure_mi_cmi
+a5abfef4e09d135b3c1cfecab951548ce2128dd7842f47f41be055df0aed6e89,47840a4e8e0e60f0,Covertype,headline,2,sKDB,2,2,290506,,287.86536049999995,"repeat=2,fold=2",kdb_parameters
+a5abfef4e09d135b3c1cfecab951548ce2128dd7842f47f41be055df0aed6e89,47840a4e8e0e60f0,Covertype,headline,2,sKDB,3,2,290506,,391.5324281000012,"repeat=2,fold=2",skdb_incremental_loocv
+56ac603d13e9f010912f9bae7c8d358904b87d1d65f7051c3b16bab343e0346b,47840a4e8e0e60f0,Covertype,headline,2,dKDB,1,2,290506,,20.606132299999445,"repeat=2,fold=2",kdb_structure_mi_cmi
+56ac603d13e9f010912f9bae7c8d358904b87d1d65f7051c3b16bab343e0346b,47840a4e8e0e60f0,Covertype,headline,2,dKDB,2,2,290506,,287.86536049999995,"repeat=2,fold=2",kdb_parameters
+56ac603d13e9f010912f9bae7c8d358904b87d1d65f7051c3b16bab343e0346b,47840a4e8e0e60f0,Covertype,headline,2,dKDB,3,2,290506,,91.31665509999948,"repeat=2,fold=2",weighted_bn_adagrad_1
+cbe7dca4a9b34628420973a24d3d064bb08a77a93ceb23e4a886ca9de53fc2ae,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),1,2,290506,,20.606132299999445,"repeat=2,fold=2",kdb_structure_mi_cmi
+cbe7dca4a9b34628420973a24d3d064bb08a77a93ceb23e4a886ca9de53fc2ae,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),2,2,290506,,287.86536049999995,"repeat=2,fold=2",kdb_parameters
+cbe7dca4a9b34628420973a24d3d064bb08a77a93ceb23e4a886ca9de53fc2ae,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),3,2,290506,,391.5324281000012,"repeat=2,fold=2",skdb_incremental_loocv
+cbe7dca4a9b34628420973a24d3d064bb08a77a93ceb23e4a886ca9de53fc2ae,47840a4e8e0e60f0,Covertype,headline,2,sdKDB (experimental/unpublished),4,2,290506,,103.39318600000115,"repeat=2,fold=2",weighted_bn_adagrad_1
+7d34a19efa27a754910cd48be762cbccb24916d9e94c3788e3f7c5bec527bbce,47840a4e8e0e60f0,PokerHand,headline,1,KDB,1,1,512505,,1.4056191999989096,"repeat=1,fold=1",kdb_structure_mi_cmi
+7d34a19efa27a754910cd48be762cbccb24916d9e94c3788e3f7c5bec527bbce,47840a4e8e0e60f0,PokerHand,headline,1,KDB,2,1,512505,,57.60667260000264,"repeat=1,fold=1",kdb_parameters
+7e50ab0de10d6d973b7fd76554646678e9ecf21b37482661ae4e3da467342f3b,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,1,1,512505,,1.4056191999989096,"repeat=1,fold=1",kdb_structure_mi_cmi
+7e50ab0de10d6d973b7fd76554646678e9ecf21b37482661ae4e3da467342f3b,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,2,1,512505,,57.60667260000264,"repeat=1,fold=1",kdb_parameters
+7e50ab0de10d6d973b7fd76554646678e9ecf21b37482661ae4e3da467342f3b,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,3,1,512505,,75.04580640000131,"repeat=1,fold=1",skdb_incremental_loocv
+f17cc65acd4f05781d31c83075b9db8a19184d1d71124c19a5f102a5ad575f5e,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,1,1,512505,,1.4056191999989096,"repeat=1,fold=1",kdb_structure_mi_cmi
+f17cc65acd4f05781d31c83075b9db8a19184d1d71124c19a5f102a5ad575f5e,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,2,1,512505,,57.60667260000264,"repeat=1,fold=1",kdb_parameters
+f17cc65acd4f05781d31c83075b9db8a19184d1d71124c19a5f102a5ad575f5e,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,3,1,512505,,22.44010200000048,"repeat=1,fold=1",weighted_bn_adagrad_1
+c98ceb1d4ed97865c8c58b7490797def8c35c038afba0096486f43fee1048481,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),1,1,512505,,1.4056191999989096,"repeat=1,fold=1",kdb_structure_mi_cmi
+c98ceb1d4ed97865c8c58b7490797def8c35c038afba0096486f43fee1048481,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),2,1,512505,,57.60667260000264,"repeat=1,fold=1",kdb_parameters
+c98ceb1d4ed97865c8c58b7490797def8c35c038afba0096486f43fee1048481,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),3,1,512505,,75.04580640000131,"repeat=1,fold=1",skdb_incremental_loocv
+c98ceb1d4ed97865c8c58b7490797def8c35c038afba0096486f43fee1048481,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),4,1,512505,,6.999517799999012,"repeat=1,fold=1",weighted_bn_adagrad_1
+9c17fb186f717ccba340f1af5ed5adfc160a36d77a3b9304ea1e310dfdb6f7cd,47840a4e8e0e60f0,PokerHand,headline,2,KDB,1,1,512505,,1.37597359999927,"repeat=1,fold=2",kdb_structure_mi_cmi
+9c17fb186f717ccba340f1af5ed5adfc160a36d77a3b9304ea1e310dfdb6f7cd,47840a4e8e0e60f0,PokerHand,headline,2,KDB,2,1,512505,,59.41909530000339,"repeat=1,fold=2",kdb_parameters
+477eebea531a1fc6bc9f45e08efdfe5d31595516015cc351afc6a21deb16f448,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,1,1,512505,,1.37597359999927,"repeat=1,fold=2",kdb_structure_mi_cmi
+477eebea531a1fc6bc9f45e08efdfe5d31595516015cc351afc6a21deb16f448,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,2,1,512505,,59.41909530000339,"repeat=1,fold=2",kdb_parameters
+477eebea531a1fc6bc9f45e08efdfe5d31595516015cc351afc6a21deb16f448,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,3,1,512505,,79.05761260000145,"repeat=1,fold=2",skdb_incremental_loocv
+775c76f8271beed223724e5fd063cd98d6c06164f3539183280dfee865bb5c5f,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,1,1,512505,,1.37597359999927,"repeat=1,fold=2",kdb_structure_mi_cmi
+775c76f8271beed223724e5fd063cd98d6c06164f3539183280dfee865bb5c5f,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,2,1,512505,,59.41909530000339,"repeat=1,fold=2",kdb_parameters
+775c76f8271beed223724e5fd063cd98d6c06164f3539183280dfee865bb5c5f,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,3,1,512505,,23.179953599999862,"repeat=1,fold=2",weighted_bn_adagrad_1
+94e03fd2fc6ef0b211c15da8182601e06adf1015134328405ae3863744f56c0c,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),1,1,512505,,1.37597359999927,"repeat=1,fold=2",kdb_structure_mi_cmi
+94e03fd2fc6ef0b211c15da8182601e06adf1015134328405ae3863744f56c0c,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),2,1,512505,,59.41909530000339,"repeat=1,fold=2",kdb_parameters
+94e03fd2fc6ef0b211c15da8182601e06adf1015134328405ae3863744f56c0c,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),3,1,512505,,79.05761260000145,"repeat=1,fold=2",skdb_incremental_loocv
+94e03fd2fc6ef0b211c15da8182601e06adf1015134328405ae3863744f56c0c,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),4,1,512505,,7.016605799999525,"repeat=1,fold=2",weighted_bn_adagrad_1
+f4cdfdb1dd1894bab55d194008468f85490faf3b3f3defef20f0c51db2484e61,47840a4e8e0e60f0,PokerHand,headline,1,KDB,1,2,512505,,1.3611679000023287,"repeat=2,fold=1",kdb_structure_mi_cmi
+f4cdfdb1dd1894bab55d194008468f85490faf3b3f3defef20f0c51db2484e61,47840a4e8e0e60f0,PokerHand,headline,1,KDB,2,2,512505,,58.9478173000025,"repeat=2,fold=1",kdb_parameters
+09ae0dd20f89903023060305a11b386fbbed22c844929f7ca18cf468f66cbc82,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,1,2,512505,,1.3611679000023287,"repeat=2,fold=1",kdb_structure_mi_cmi
+09ae0dd20f89903023060305a11b386fbbed22c844929f7ca18cf468f66cbc82,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,2,2,512505,,58.9478173000025,"repeat=2,fold=1",kdb_parameters
+09ae0dd20f89903023060305a11b386fbbed22c844929f7ca18cf468f66cbc82,47840a4e8e0e60f0,PokerHand,headline,1,sKDB,3,2,512505,,78.22222839999813,"repeat=2,fold=1",skdb_incremental_loocv
+407d334d5c663301cbe37ec6506db7dbf02358ca4a6dbadaea578a95870da75b,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,1,2,512505,,1.3611679000023287,"repeat=2,fold=1",kdb_structure_mi_cmi
+407d334d5c663301cbe37ec6506db7dbf02358ca4a6dbadaea578a95870da75b,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,2,2,512505,,58.9478173000025,"repeat=2,fold=1",kdb_parameters
+407d334d5c663301cbe37ec6506db7dbf02358ca4a6dbadaea578a95870da75b,47840a4e8e0e60f0,PokerHand,headline,1,dKDB,3,2,512505,,23.382457700001396,"repeat=2,fold=1",weighted_bn_adagrad_1
+ea7e04de1cba954a3ff0e73fa08fe3c0cff1ab8aa878a63b26043a0958ea9408,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),1,2,512505,,1.3611679000023287,"repeat=2,fold=1",kdb_structure_mi_cmi
+ea7e04de1cba954a3ff0e73fa08fe3c0cff1ab8aa878a63b26043a0958ea9408,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),2,2,512505,,58.9478173000025,"repeat=2,fold=1",kdb_parameters
+ea7e04de1cba954a3ff0e73fa08fe3c0cff1ab8aa878a63b26043a0958ea9408,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),3,2,512505,,78.22222839999813,"repeat=2,fold=1",skdb_incremental_loocv
+ea7e04de1cba954a3ff0e73fa08fe3c0cff1ab8aa878a63b26043a0958ea9408,47840a4e8e0e60f0,PokerHand,headline,1,sdKDB (experimental/unpublished),4,2,512505,,7.056591100001242,"repeat=2,fold=1",weighted_bn_adagrad_1
+0a7434b3ba16193d37cf043ab9ed335abd8b3bc15c6a2db68d236a3ffca227a2,47840a4e8e0e60f0,PokerHand,headline,2,KDB,1,2,512505,,1.3439198000014585,"repeat=2,fold=2",kdb_structure_mi_cmi
+0a7434b3ba16193d37cf043ab9ed335abd8b3bc15c6a2db68d236a3ffca227a2,47840a4e8e0e60f0,PokerHand,headline,2,KDB,2,2,512505,,59.341939800000546,"repeat=2,fold=2",kdb_parameters
+a8a854abfdb302867a3c04526045da353fe53e5324da9945a64cc12d3383f41c,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,1,2,512505,,1.3439198000014585,"repeat=2,fold=2",kdb_structure_mi_cmi
+a8a854abfdb302867a3c04526045da353fe53e5324da9945a64cc12d3383f41c,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,2,2,512505,,59.341939800000546,"repeat=2,fold=2",kdb_parameters
+a8a854abfdb302867a3c04526045da353fe53e5324da9945a64cc12d3383f41c,47840a4e8e0e60f0,PokerHand,headline,2,sKDB,3,2,512505,,77.53494499999942,"repeat=2,fold=2",skdb_incremental_loocv
+a30e7ffa8e2eaa96e4b8fea7837088bd53a428c7045ac37b9292313df8522d57,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,1,2,512505,,1.3439198000014585,"repeat=2,fold=2",kdb_structure_mi_cmi
+a30e7ffa8e2eaa96e4b8fea7837088bd53a428c7045ac37b9292313df8522d57,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,2,2,512505,,59.341939800000546,"repeat=2,fold=2",kdb_parameters
+a30e7ffa8e2eaa96e4b8fea7837088bd53a428c7045ac37b9292313df8522d57,47840a4e8e0e60f0,PokerHand,headline,2,dKDB,3,2,512505,,23.486057800000708,"repeat=2,fold=2",weighted_bn_adagrad_1
+2e32cc99a29c0931b05b809af824f4a2dcbb59102f0663f73cc0f485801a125a,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),1,2,512505,,1.3439198000014585,"repeat=2,fold=2",kdb_structure_mi_cmi
+2e32cc99a29c0931b05b809af824f4a2dcbb59102f0663f73cc0f485801a125a,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),2,2,512505,,59.341939800000546,"repeat=2,fold=2",kdb_parameters
+2e32cc99a29c0931b05b809af824f4a2dcbb59102f0663f73cc0f485801a125a,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),3,2,512505,,77.53494499999942,"repeat=2,fold=2",skdb_incremental_loocv
+2e32cc99a29c0931b05b809af824f4a2dcbb59102f0663f73cc0f485801a125a,47840a4e8e0e60f0,PokerHand,headline,2,sdKDB (experimental/unpublished),4,2,512505,,6.979280800002016,"repeat=2,fold=2",weighted_bn_adagrad_1
+ef44ab6ca3c0599f487cebcfb5046b5ec433038efa87a2ce74ace1580238918f,47840a4e8e0e60f0,Localization,headline,1,KDB,1,1,82430,,0.06414919999951962,"repeat=1,fold=1",kdb_structure_mi_cmi
+ef44ab6ca3c0599f487cebcfb5046b5ec433038efa87a2ce74ace1580238918f,47840a4e8e0e60f0,Localization,headline,1,KDB,2,1,82430,,0.7358332000003429,"repeat=1,fold=1",kdb_parameters
+7f267557fc53d71cd2d5d21eb44ad4e983f5e9b9437e906323b987e56adbb7e0,47840a4e8e0e60f0,Localization,headline,1,sKDB,1,1,82430,,0.06414919999951962,"repeat=1,fold=1",kdb_structure_mi_cmi
+7f267557fc53d71cd2d5d21eb44ad4e983f5e9b9437e906323b987e56adbb7e0,47840a4e8e0e60f0,Localization,headline,1,sKDB,2,1,82430,,0.7358332000003429,"repeat=1,fold=1",kdb_parameters
+7f267557fc53d71cd2d5d21eb44ad4e983f5e9b9437e906323b987e56adbb7e0,47840a4e8e0e60f0,Localization,headline,1,sKDB,3,1,82430,,2.1715069000019867,"repeat=1,fold=1",skdb_incremental_loocv
+f370bc40954f74eeaf7693959dc4b2e41c81280eb9d253be2021d17421f03580,47840a4e8e0e60f0,Localization,headline,1,dKDB,1,1,82430,,0.06414919999951962,"repeat=1,fold=1",kdb_structure_mi_cmi
+f370bc40954f74eeaf7693959dc4b2e41c81280eb9d253be2021d17421f03580,47840a4e8e0e60f0,Localization,headline,1,dKDB,2,1,82430,,0.7358332000003429,"repeat=1,fold=1",kdb_parameters
+f370bc40954f74eeaf7693959dc4b2e41c81280eb9d253be2021d17421f03580,47840a4e8e0e60f0,Localization,headline,1,dKDB,3,1,82430,,0.5326457000010123,"repeat=1,fold=1",weighted_bn_adagrad_1
+206c15f75c15921728f348dbe8de50d96353d2f1a68404053d684e55b866b080,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),1,1,82430,,0.06414919999951962,"repeat=1,fold=1",kdb_structure_mi_cmi
+206c15f75c15921728f348dbe8de50d96353d2f1a68404053d684e55b866b080,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),2,1,82430,,0.7358332000003429,"repeat=1,fold=1",kdb_parameters
+206c15f75c15921728f348dbe8de50d96353d2f1a68404053d684e55b866b080,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),3,1,82430,,2.1715069000019867,"repeat=1,fold=1",skdb_incremental_loocv
+206c15f75c15921728f348dbe8de50d96353d2f1a68404053d684e55b866b080,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),4,1,82430,,0.5417659999984608,"repeat=1,fold=1",weighted_bn_adagrad_1
+6adb17cdc89bb9beca8e16217fd87a1f2868dc4654555a401b5b339befdf21c5,47840a4e8e0e60f0,Localization,headline,2,KDB,1,1,82430,,0.04188650000287453,"repeat=1,fold=2",kdb_structure_mi_cmi
+6adb17cdc89bb9beca8e16217fd87a1f2868dc4654555a401b5b339befdf21c5,47840a4e8e0e60f0,Localization,headline,2,KDB,2,1,82430,,0.6783851000000141,"repeat=1,fold=2",kdb_parameters
+575f68dbc488562a6702cddb125ea6acf0b7857f58c0627dad4135a510714237,47840a4e8e0e60f0,Localization,headline,2,sKDB,1,1,82430,,0.04188650000287453,"repeat=1,fold=2",kdb_structure_mi_cmi
+575f68dbc488562a6702cddb125ea6acf0b7857f58c0627dad4135a510714237,47840a4e8e0e60f0,Localization,headline,2,sKDB,2,1,82430,,0.6783851000000141,"repeat=1,fold=2",kdb_parameters
+575f68dbc488562a6702cddb125ea6acf0b7857f58c0627dad4135a510714237,47840a4e8e0e60f0,Localization,headline,2,sKDB,3,1,82430,,2.1847901000001,"repeat=1,fold=2",skdb_incremental_loocv
+d428148ad9aaead89a86b2d8033a41e5b57c8c65e31d895f3536f458123b1730,47840a4e8e0e60f0,Localization,headline,2,dKDB,1,1,82430,,0.04188650000287453,"repeat=1,fold=2",kdb_structure_mi_cmi
+d428148ad9aaead89a86b2d8033a41e5b57c8c65e31d895f3536f458123b1730,47840a4e8e0e60f0,Localization,headline,2,dKDB,2,1,82430,,0.6783851000000141,"repeat=1,fold=2",kdb_parameters
+d428148ad9aaead89a86b2d8033a41e5b57c8c65e31d895f3536f458123b1730,47840a4e8e0e60f0,Localization,headline,2,dKDB,3,1,82430,,0.5144803999974101,"repeat=1,fold=2",weighted_bn_adagrad_1
+c1410602e01be0a3b16e0b04a0975443aa40c1a00384fc020f3c1e40e2b0d573,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),1,1,82430,,0.04188650000287453,"repeat=1,fold=2",kdb_structure_mi_cmi
+c1410602e01be0a3b16e0b04a0975443aa40c1a00384fc020f3c1e40e2b0d573,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),2,1,82430,,0.6783851000000141,"repeat=1,fold=2",kdb_parameters
+c1410602e01be0a3b16e0b04a0975443aa40c1a00384fc020f3c1e40e2b0d573,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),3,1,82430,,2.1847901000001,"repeat=1,fold=2",skdb_incremental_loocv
+c1410602e01be0a3b16e0b04a0975443aa40c1a00384fc020f3c1e40e2b0d573,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),4,1,82430,,0.5352295000011509,"repeat=1,fold=2",weighted_bn_adagrad_1
+c3d8dc9f56218a4c83910894f73fd1fcee5b842925270d254570190e6429e748,47840a4e8e0e60f0,Localization,headline,1,KDB,1,2,82430,,0.0578094999982568,"repeat=2,fold=1",kdb_structure_mi_cmi
+c3d8dc9f56218a4c83910894f73fd1fcee5b842925270d254570190e6429e748,47840a4e8e0e60f0,Localization,headline,1,KDB,2,2,82430,,0.7537491999974009,"repeat=2,fold=1",kdb_parameters
+b5f7d7102ec8284d1d40bf0e79ae214f205997e29c7123ca6bc5b400bdda905c,47840a4e8e0e60f0,Localization,headline,1,sKDB,1,2,82430,,0.0578094999982568,"repeat=2,fold=1",kdb_structure_mi_cmi
+b5f7d7102ec8284d1d40bf0e79ae214f205997e29c7123ca6bc5b400bdda905c,47840a4e8e0e60f0,Localization,headline,1,sKDB,2,2,82430,,0.7537491999974009,"repeat=2,fold=1",kdb_parameters
+b5f7d7102ec8284d1d40bf0e79ae214f205997e29c7123ca6bc5b400bdda905c,47840a4e8e0e60f0,Localization,headline,1,sKDB,3,2,82430,,1.757564799998363,"repeat=2,fold=1",skdb_incremental_loocv
+6be6aaf58ff7f5961c77289857c7a64fdc22e789807493c9f7bc3d0cc4f13449,47840a4e8e0e60f0,Localization,headline,1,dKDB,1,2,82430,,0.0578094999982568,"repeat=2,fold=1",kdb_structure_mi_cmi
+6be6aaf58ff7f5961c77289857c7a64fdc22e789807493c9f7bc3d0cc4f13449,47840a4e8e0e60f0,Localization,headline,1,dKDB,2,2,82430,,0.7537491999974009,"repeat=2,fold=1",kdb_parameters
+6be6aaf58ff7f5961c77289857c7a64fdc22e789807493c9f7bc3d0cc4f13449,47840a4e8e0e60f0,Localization,headline,1,dKDB,3,2,82430,,0.46503170000141836,"repeat=2,fold=1",weighted_bn_adagrad_1
+a39187908bb2da93c6b1ef15d637ff1310b84e5881ecf8f49166442af5308153,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),1,2,82430,,0.0578094999982568,"repeat=2,fold=1",kdb_structure_mi_cmi
+a39187908bb2da93c6b1ef15d637ff1310b84e5881ecf8f49166442af5308153,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),2,2,82430,,0.7537491999974009,"repeat=2,fold=1",kdb_parameters
+a39187908bb2da93c6b1ef15d637ff1310b84e5881ecf8f49166442af5308153,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),3,2,82430,,1.757564799998363,"repeat=2,fold=1",skdb_incremental_loocv
+a39187908bb2da93c6b1ef15d637ff1310b84e5881ecf8f49166442af5308153,47840a4e8e0e60f0,Localization,headline,1,sdKDB (experimental/unpublished),4,2,82430,,0.4493542999989586,"repeat=2,fold=1",weighted_bn_adagrad_1
+2cf0f03908d61ac79591648911dd69ed108d0cddee00a740869e69e2bf3bfc3a,47840a4e8e0e60f0,Localization,headline,2,KDB,1,2,82430,,0.04275739999866346,"repeat=2,fold=2",kdb_structure_mi_cmi
+2cf0f03908d61ac79591648911dd69ed108d0cddee00a740869e69e2bf3bfc3a,47840a4e8e0e60f0,Localization,headline,2,KDB,2,2,82430,,0.7471761000015249,"repeat=2,fold=2",kdb_parameters
+7ac8a7e648e7c0025f7f2c190e2aca108079af18dfee962e9f82547cd43a10ba,47840a4e8e0e60f0,Localization,headline,2,sKDB,1,2,82430,,0.04275739999866346,"repeat=2,fold=2",kdb_structure_mi_cmi
+7ac8a7e648e7c0025f7f2c190e2aca108079af18dfee962e9f82547cd43a10ba,47840a4e8e0e60f0,Localization,headline,2,sKDB,2,2,82430,,0.7471761000015249,"repeat=2,fold=2",kdb_parameters
+7ac8a7e648e7c0025f7f2c190e2aca108079af18dfee962e9f82547cd43a10ba,47840a4e8e0e60f0,Localization,headline,2,sKDB,3,2,82430,,1.704290099998616,"repeat=2,fold=2",skdb_incremental_loocv
+d720713b267204923e0afffd81b7c610cd20c39894c7b8009d64ab72ea32b7e5,47840a4e8e0e60f0,Localization,headline,2,dKDB,1,2,82430,,0.04275739999866346,"repeat=2,fold=2",kdb_structure_mi_cmi
+d720713b267204923e0afffd81b7c610cd20c39894c7b8009d64ab72ea32b7e5,47840a4e8e0e60f0,Localization,headline,2,dKDB,2,2,82430,,0.7471761000015249,"repeat=2,fold=2",kdb_parameters
+d720713b267204923e0afffd81b7c610cd20c39894c7b8009d64ab72ea32b7e5,47840a4e8e0e60f0,Localization,headline,2,dKDB,3,2,82430,,0.486815199998091,"repeat=2,fold=2",weighted_bn_adagrad_1
+ff8740884e014b6e422e2751b70fbf3e94ad6c3ed235632da3cc769bb3ef8f55,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),1,2,82430,,0.04275739999866346,"repeat=2,fold=2",kdb_structure_mi_cmi
+ff8740884e014b6e422e2751b70fbf3e94ad6c3ed235632da3cc769bb3ef8f55,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),2,2,82430,,0.7471761000015249,"repeat=2,fold=2",kdb_parameters
+ff8740884e014b6e422e2751b70fbf3e94ad6c3ed235632da3cc769bb3ef8f55,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),3,2,82430,,1.704290099998616,"repeat=2,fold=2",skdb_incremental_loocv
+ff8740884e014b6e422e2751b70fbf3e94ad6c3ed235632da3cc769bb3ef8f55,47840a4e8e0e60f0,Localization,headline,2,sdKDB (experimental/unpublished),4,2,82430,,0.39689370000269264,"repeat=2,fold=2",weighted_bn_adagrad_1
+e562c699513731a93e01a070e0b3267b3543f971f908b0f2abf182cdae336e17,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,KDB,1,1,70353,,9.389453499999945,"repeat=1,fold=1",kdb_structure_mi_cmi
+e562c699513731a93e01a070e0b3267b3543f971f908b0f2abf182cdae336e17,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,KDB,2,1,70353,,52.144235600000684,"repeat=1,fold=1",kdb_parameters
+baa94ead58c46cf6cbda0d55f259897a00d1a462c09fb25ce27d7e260de2fe72,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,1,1,70353,,9.389453499999945,"repeat=1,fold=1",kdb_structure_mi_cmi
+baa94ead58c46cf6cbda0d55f259897a00d1a462c09fb25ce27d7e260de2fe72,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,2,1,70353,,52.144235600000684,"repeat=1,fold=1",kdb_parameters
+baa94ead58c46cf6cbda0d55f259897a00d1a462c09fb25ce27d7e260de2fe72,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,3,1,70353,,66.2602407000013,"repeat=1,fold=1",skdb_incremental_loocv
+d7cc98b6ca8feda754bff6c9e3533131a78689c12d3be9c6305072917d95cd93,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,1,1,70353,,9.389453499999945,"repeat=1,fold=1",kdb_structure_mi_cmi
+d7cc98b6ca8feda754bff6c9e3533131a78689c12d3be9c6305072917d95cd93,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,2,1,70353,,52.144235600000684,"repeat=1,fold=1",kdb_parameters
+d7cc98b6ca8feda754bff6c9e3533131a78689c12d3be9c6305072917d95cd93,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,3,1,70353,,15.069119799998589,"repeat=1,fold=1",weighted_bn_adagrad_1
+11e678aa5bd7bd1416b1903791931492d3483301ca814f430b03786a723482bd,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),1,1,70353,,9.389453499999945,"repeat=1,fold=1",kdb_structure_mi_cmi
+11e678aa5bd7bd1416b1903791931492d3483301ca814f430b03786a723482bd,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),2,1,70353,,52.144235600000684,"repeat=1,fold=1",kdb_parameters
+11e678aa5bd7bd1416b1903791931492d3483301ca814f430b03786a723482bd,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),3,1,70353,,66.2602407000013,"repeat=1,fold=1",skdb_incremental_loocv
+11e678aa5bd7bd1416b1903791931492d3483301ca814f430b03786a723482bd,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),4,1,70353,,0.22779939999963972,"repeat=1,fold=1",weighted_bn_adagrad_1
+154b8e259a1262e14afb71685f0ec7b242ab3c8d7703cb18757183332a4010e6,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,KDB,1,1,70354,,9.350577000001067,"repeat=1,fold=2",kdb_structure_mi_cmi
+154b8e259a1262e14afb71685f0ec7b242ab3c8d7703cb18757183332a4010e6,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,KDB,2,1,70354,,53.26340150000033,"repeat=1,fold=2",kdb_parameters
+1a897f862a857e53ec4074860c5d2133cfcfd7570b4db39ba7b607fc681863e7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,1,1,70354,,9.350577000001067,"repeat=1,fold=2",kdb_structure_mi_cmi
+1a897f862a857e53ec4074860c5d2133cfcfd7570b4db39ba7b607fc681863e7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,2,1,70354,,53.26340150000033,"repeat=1,fold=2",kdb_parameters
+1a897f862a857e53ec4074860c5d2133cfcfd7570b4db39ba7b607fc681863e7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,3,1,70354,,68.67021569999997,"repeat=1,fold=2",skdb_incremental_loocv
+fbd16ca41c715339ac9fb5b966d7b51572d0842bfc4d3960948d9d3e21006893,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,1,1,70354,,9.350577000001067,"repeat=1,fold=2",kdb_structure_mi_cmi
+fbd16ca41c715339ac9fb5b966d7b51572d0842bfc4d3960948d9d3e21006893,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,2,1,70354,,53.26340150000033,"repeat=1,fold=2",kdb_parameters
+fbd16ca41c715339ac9fb5b966d7b51572d0842bfc4d3960948d9d3e21006893,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,3,1,70354,,15.358270500000799,"repeat=1,fold=2",weighted_bn_adagrad_1
+c569efa7a4a3ec8db103b58de690c79fd4559a3614bffa44f2f448a54cf7f00e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),1,1,70354,,9.350577000001067,"repeat=1,fold=2",kdb_structure_mi_cmi
+c569efa7a4a3ec8db103b58de690c79fd4559a3614bffa44f2f448a54cf7f00e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),2,1,70354,,53.26340150000033,"repeat=1,fold=2",kdb_parameters
+c569efa7a4a3ec8db103b58de690c79fd4559a3614bffa44f2f448a54cf7f00e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),3,1,70354,,68.67021569999997,"repeat=1,fold=2",skdb_incremental_loocv
+c569efa7a4a3ec8db103b58de690c79fd4559a3614bffa44f2f448a54cf7f00e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),4,1,70354,,0.08033710000017891,"repeat=1,fold=2",weighted_bn_adagrad_1
+b2d5f2d2e5014aea9d75eddaeee689f1279f21213cb561cfa9c942f9d370078d,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,KDB,1,2,70353,,11.322874800000136,"repeat=2,fold=1",kdb_structure_mi_cmi
+b2d5f2d2e5014aea9d75eddaeee689f1279f21213cb561cfa9c942f9d370078d,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,KDB,2,2,70353,,54.66661070000191,"repeat=2,fold=1",kdb_parameters
+9b1204b45fcbe64f5ccde6bb5beba994693686648469ab35ed0e3ffb5ec8f99b,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,1,2,70353,,11.322874800000136,"repeat=2,fold=1",kdb_structure_mi_cmi
+9b1204b45fcbe64f5ccde6bb5beba994693686648469ab35ed0e3ffb5ec8f99b,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,2,2,70353,,54.66661070000191,"repeat=2,fold=1",kdb_parameters
+9b1204b45fcbe64f5ccde6bb5beba994693686648469ab35ed0e3ffb5ec8f99b,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sKDB,3,2,70353,,69.70181230000162,"repeat=2,fold=1",skdb_incremental_loocv
+d927e4ea82e312070f85deddcfa1a97b1a266251768b1c0de40ab8ab11c9f13e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,1,2,70353,,11.322874800000136,"repeat=2,fold=1",kdb_structure_mi_cmi
+d927e4ea82e312070f85deddcfa1a97b1a266251768b1c0de40ab8ab11c9f13e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,2,2,70353,,54.66661070000191,"repeat=2,fold=1",kdb_parameters
+d927e4ea82e312070f85deddcfa1a97b1a266251768b1c0de40ab8ab11c9f13e,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,dKDB,3,2,70353,,15.384678200000053,"repeat=2,fold=1",weighted_bn_adagrad_1
+d9a8b58be0ecfa027a4bc5207650943be4c23370e2af191c0f50d012d389b3e3,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),1,2,70353,,11.322874800000136,"repeat=2,fold=1",kdb_structure_mi_cmi
+d9a8b58be0ecfa027a4bc5207650943be4c23370e2af191c0f50d012d389b3e3,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),2,2,70353,,54.66661070000191,"repeat=2,fold=1",kdb_parameters
+d9a8b58be0ecfa027a4bc5207650943be4c23370e2af191c0f50d012d389b3e3,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),3,2,70353,,69.70181230000162,"repeat=2,fold=1",skdb_incremental_loocv
+d9a8b58be0ecfa027a4bc5207650943be4c23370e2af191c0f50d012d389b3e3,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,1,sdKDB (experimental/unpublished),4,2,70353,,0.2220988999979454,"repeat=2,fold=1",weighted_bn_adagrad_1
+f8616ddec858dbc53e0e098500859157a31b3281999af464735cac74e8f777df,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,KDB,1,2,70354,,9.343266600000788,"repeat=2,fold=2",kdb_structure_mi_cmi
+f8616ddec858dbc53e0e098500859157a31b3281999af464735cac74e8f777df,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,KDB,2,2,70354,,43.1339509999998,"repeat=2,fold=2",kdb_parameters
+e68e400468d5fea718fcf95581740bb7c6cbc8880ee1f7233f91b464fcf43ae7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,1,2,70354,,9.343266600000788,"repeat=2,fold=2",kdb_structure_mi_cmi
+e68e400468d5fea718fcf95581740bb7c6cbc8880ee1f7233f91b464fcf43ae7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,2,2,70354,,43.1339509999998,"repeat=2,fold=2",kdb_parameters
+e68e400468d5fea718fcf95581740bb7c6cbc8880ee1f7233f91b464fcf43ae7,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sKDB,3,2,70354,,54.026023300000816,"repeat=2,fold=2",skdb_incremental_loocv
+37dc49e2a0104115463812605b74494b953fe6e99f5119383b687d6d54ed0abf,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,1,2,70354,,9.343266600000788,"repeat=2,fold=2",kdb_structure_mi_cmi
+37dc49e2a0104115463812605b74494b953fe6e99f5119383b687d6d54ed0abf,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,2,2,70354,,43.1339509999998,"repeat=2,fold=2",kdb_parameters
+37dc49e2a0104115463812605b74494b953fe6e99f5119383b687d6d54ed0abf,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,dKDB,3,2,70354,,13.192049000001134,"repeat=2,fold=2",weighted_bn_adagrad_1
+fa997e0bec9a26ad3800e0cee612ad29d98fa7cf42e0c4eb42b4a6f47d673993,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),1,2,70354,,9.343266600000788,"repeat=2,fold=2",kdb_structure_mi_cmi
+fa997e0bec9a26ad3800e0cee612ad29d98fa7cf42e0c4eb42b4a6f47d673993,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),2,2,70354,,43.1339509999998,"repeat=2,fold=2",kdb_parameters
+fa997e0bec9a26ad3800e0cee612ad29d98fa7cf42e0c4eb42b4a6f47d673993,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),3,2,70354,,54.026023300000816,"repeat=2,fold=2",skdb_incremental_loocv
+fa997e0bec9a26ad3800e0cee612ad29d98fa7cf42e0c4eb42b4a6f47d673993,47840a4e8e0e60f0,TwitterAbsoluteSigma,headline,2,sdKDB (experimental/unpublished),4,2,70354,,0.24699820000023465,"repeat=2,fold=2",weighted_bn_adagrad_1
+191792b10a8dfb0d198d73613fe5d610bd174ceb593a239f210b1498ea688907,47840a4e8e0e60f0,CensusIncome,headline,1,KDB,1,1,149642,,5.106949400000303,"repeat=1,fold=1",kdb_structure_mi_cmi
+191792b10a8dfb0d198d73613fe5d610bd174ceb593a239f210b1498ea688907,47840a4e8e0e60f0,CensusIncome,headline,1,KDB,2,1,149642,,59.03399849999914,"repeat=1,fold=1",kdb_parameters
+c1b39c17b7e613e5a579b660784b4fc1e285ceb99a2b73cb5ef321010acb43fc,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,1,1,149642,,5.106949400000303,"repeat=1,fold=1",kdb_structure_mi_cmi
+c1b39c17b7e613e5a579b660784b4fc1e285ceb99a2b73cb5ef321010acb43fc,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,2,1,149642,,59.03399849999914,"repeat=1,fold=1",kdb_parameters
+c1b39c17b7e613e5a579b660784b4fc1e285ceb99a2b73cb5ef321010acb43fc,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,3,1,149642,,69.8002192999993,"repeat=1,fold=1",skdb_incremental_loocv
+10de0e14de0093e7271f492e3d76e80ab591a9122bb6e162c4ea0242f4c58782,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,1,1,149642,,5.106949400000303,"repeat=1,fold=1",kdb_structure_mi_cmi
+10de0e14de0093e7271f492e3d76e80ab591a9122bb6e162c4ea0242f4c58782,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,2,1,149642,,59.03399849999914,"repeat=1,fold=1",kdb_parameters
+10de0e14de0093e7271f492e3d76e80ab591a9122bb6e162c4ea0242f4c58782,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,3,1,149642,,17.60819260000062,"repeat=1,fold=1",weighted_bn_adagrad_1
+b7a91b9f9ba86b9a10e65228e6236a41e0ceac9b4b786ecc4424521d46e1348d,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),1,1,149642,,5.106949400000303,"repeat=1,fold=1",kdb_structure_mi_cmi
+b7a91b9f9ba86b9a10e65228e6236a41e0ceac9b4b786ecc4424521d46e1348d,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),2,1,149642,,59.03399849999914,"repeat=1,fold=1",kdb_parameters
+b7a91b9f9ba86b9a10e65228e6236a41e0ceac9b4b786ecc4424521d46e1348d,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),3,1,149642,,69.8002192999993,"repeat=1,fold=1",skdb_incremental_loocv
+b7a91b9f9ba86b9a10e65228e6236a41e0ceac9b4b786ecc4424521d46e1348d,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),4,1,149642,,4.195502300000953,"repeat=1,fold=1",weighted_bn_adagrad_1
+ed3764d714ffa555d261777ab7e81d93ac2bb807fbb3d29ead8b8b5bdf441319,47840a4e8e0e60f0,CensusIncome,headline,2,KDB,1,1,149643,,4.888973600001918,"repeat=1,fold=2",kdb_structure_mi_cmi
+ed3764d714ffa555d261777ab7e81d93ac2bb807fbb3d29ead8b8b5bdf441319,47840a4e8e0e60f0,CensusIncome,headline,2,KDB,2,1,149643,,57.031065899998794,"repeat=1,fold=2",kdb_parameters
+c0446751aecdbcee963b803de1982845ce793cb76bf02c6c96f86c12280016b0,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,1,1,149643,,4.888973600001918,"repeat=1,fold=2",kdb_structure_mi_cmi
+c0446751aecdbcee963b803de1982845ce793cb76bf02c6c96f86c12280016b0,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,2,1,149643,,57.031065899998794,"repeat=1,fold=2",kdb_parameters
+c0446751aecdbcee963b803de1982845ce793cb76bf02c6c96f86c12280016b0,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,3,1,149643,,68.41761639999822,"repeat=1,fold=2",skdb_incremental_loocv
+f6085832dad60c1179cb2393bffae54c911f34ba41fd236c01162db44221b414,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,1,1,149643,,4.888973600001918,"repeat=1,fold=2",kdb_structure_mi_cmi
+f6085832dad60c1179cb2393bffae54c911f34ba41fd236c01162db44221b414,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,2,1,149643,,57.031065899998794,"repeat=1,fold=2",kdb_parameters
+f6085832dad60c1179cb2393bffae54c911f34ba41fd236c01162db44221b414,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,3,1,149643,,17.341398599997774,"repeat=1,fold=2",weighted_bn_adagrad_1
+9bf1ef01fd34c6e3a3f3566ee939342a71f8f7baa15663b15e390c844b505f86,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),1,1,149643,,4.888973600001918,"repeat=1,fold=2",kdb_structure_mi_cmi
+9bf1ef01fd34c6e3a3f3566ee939342a71f8f7baa15663b15e390c844b505f86,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),2,1,149643,,57.031065899998794,"repeat=1,fold=2",kdb_parameters
+9bf1ef01fd34c6e3a3f3566ee939342a71f8f7baa15663b15e390c844b505f86,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),3,1,149643,,68.41761639999822,"repeat=1,fold=2",skdb_incremental_loocv
+9bf1ef01fd34c6e3a3f3566ee939342a71f8f7baa15663b15e390c844b505f86,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),4,1,149643,,4.248953000002075,"repeat=1,fold=2",weighted_bn_adagrad_1
+9b940e91364f3f757ea6f7306985a8eb1e64ec8a5caf4e550359008fd54c501e,47840a4e8e0e60f0,CensusIncome,headline,1,KDB,1,2,149642,,4.250601799998549,"repeat=2,fold=1",kdb_structure_mi_cmi
+9b940e91364f3f757ea6f7306985a8eb1e64ec8a5caf4e550359008fd54c501e,47840a4e8e0e60f0,CensusIncome,headline,1,KDB,2,2,149642,,46.19799129999956,"repeat=2,fold=1",kdb_parameters
+fbb0b02da2e378b05715e63dd6bf79c4574fa9930e09e443d805ae044c4d632f,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,1,2,149642,,4.250601799998549,"repeat=2,fold=1",kdb_structure_mi_cmi
+fbb0b02da2e378b05715e63dd6bf79c4574fa9930e09e443d805ae044c4d632f,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,2,2,149642,,46.19799129999956,"repeat=2,fold=1",kdb_parameters
+fbb0b02da2e378b05715e63dd6bf79c4574fa9930e09e443d805ae044c4d632f,47840a4e8e0e60f0,CensusIncome,headline,1,sKDB,3,2,149642,,59.18362540000089,"repeat=2,fold=1",skdb_incremental_loocv
+e7b996621aba82b44d330eac1edd99820b5110daceda1719c370c8528e9c3076,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,1,2,149642,,4.250601799998549,"repeat=2,fold=1",kdb_structure_mi_cmi
+e7b996621aba82b44d330eac1edd99820b5110daceda1719c370c8528e9c3076,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,2,2,149642,,46.19799129999956,"repeat=2,fold=1",kdb_parameters
+e7b996621aba82b44d330eac1edd99820b5110daceda1719c370c8528e9c3076,47840a4e8e0e60f0,CensusIncome,headline,1,dKDB,3,2,149642,,14.185609199997998,"repeat=2,fold=1",weighted_bn_adagrad_1
+f44386149211df4831bc603e327e3abcb6411d9b8a900fe966a7c5935adb2bc7,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),1,2,149642,,4.250601799998549,"repeat=2,fold=1",kdb_structure_mi_cmi
+f44386149211df4831bc603e327e3abcb6411d9b8a900fe966a7c5935adb2bc7,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),2,2,149642,,46.19799129999956,"repeat=2,fold=1",kdb_parameters
+f44386149211df4831bc603e327e3abcb6411d9b8a900fe966a7c5935adb2bc7,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),3,2,149642,,59.18362540000089,"repeat=2,fold=1",skdb_incremental_loocv
+f44386149211df4831bc603e327e3abcb6411d9b8a900fe966a7c5935adb2bc7,47840a4e8e0e60f0,CensusIncome,headline,1,sdKDB (experimental/unpublished),4,2,149642,,3.3108036999983597,"repeat=2,fold=1",weighted_bn_adagrad_1
+6a6c055aac5973ce088749e1ef41dd2579cfca9d2d0c853a1c272078d28ca9f2,47840a4e8e0e60f0,CensusIncome,headline,2,KDB,1,2,149643,,4.3706518999970285,"repeat=2,fold=2",kdb_structure_mi_cmi
+6a6c055aac5973ce088749e1ef41dd2579cfca9d2d0c853a1c272078d28ca9f2,47840a4e8e0e60f0,CensusIncome,headline,2,KDB,2,2,149643,,51.22067909999896,"repeat=2,fold=2",kdb_parameters
+f09ccc2dcd99e06af4014dde6cb393839eed644b007ca671a7f916301ca67086,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,1,2,149643,,4.3706518999970285,"repeat=2,fold=2",kdb_structure_mi_cmi
+f09ccc2dcd99e06af4014dde6cb393839eed644b007ca671a7f916301ca67086,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,2,2,149643,,51.22067909999896,"repeat=2,fold=2",kdb_parameters
+f09ccc2dcd99e06af4014dde6cb393839eed644b007ca671a7f916301ca67086,47840a4e8e0e60f0,CensusIncome,headline,2,sKDB,3,2,149643,,71.62091770000188,"repeat=2,fold=2",skdb_incremental_loocv
+e3584397b951d93ed653def58215c333d4ab20c6d8ead63fcaa77342bd9e8139,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,1,2,149643,,4.3706518999970285,"repeat=2,fold=2",kdb_structure_mi_cmi
+e3584397b951d93ed653def58215c333d4ab20c6d8ead63fcaa77342bd9e8139,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,2,2,149643,,51.22067909999896,"repeat=2,fold=2",kdb_parameters
+e3584397b951d93ed653def58215c333d4ab20c6d8ead63fcaa77342bd9e8139,47840a4e8e0e60f0,CensusIncome,headline,2,dKDB,3,2,149643,,17.539407099997334,"repeat=2,fold=2",weighted_bn_adagrad_1
+81eeee568f73033cafc2d2e7657fc53371586d743283888646d1036367a35505,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),1,2,149643,,4.3706518999970285,"repeat=2,fold=2",kdb_structure_mi_cmi
+81eeee568f73033cafc2d2e7657fc53371586d743283888646d1036367a35505,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),2,2,149643,,51.22067909999896,"repeat=2,fold=2",kdb_parameters
+81eeee568f73033cafc2d2e7657fc53371586d743283888646d1036367a35505,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),3,2,149643,,71.62091770000188,"repeat=2,fold=2",skdb_incremental_loocv
+81eeee568f73033cafc2d2e7657fc53371586d743283888646d1036367a35505,47840a4e8e0e60f0,CensusIncome,headline,2,sdKDB (experimental/unpublished),4,2,149643,,4.182720500000869,"repeat=2,fold=2",weighted_bn_adagrad_1
