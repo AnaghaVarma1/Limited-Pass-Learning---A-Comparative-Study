@@ -1,0 +1,13 @@
+check,status,detail
+repository dKDB D=0 equals KDB,PASS,
+pre-update w=0 is uniform and differs from KDB,PASS,
+pre-update w=1 equals KDB,PASS,
+analytical NLL gradient matches finite difference,PASS,3.9050096489745556e-11
+continuous checkpointing equals standalone D=3,PASS,
+AdaGrad state persists,PASS,
+generative theta unchanged,PASS,
+probabilities finite and normalized,PASS,
+real update changes prediction hash,PASS,
+legacy backoff omission exists and neutral correction changes prediction,PASS,
+"compiled prediction equals audited row-wise prediction, including backoff",PASS,
+compact no-copy model view equals materialized controller after an update,PASS,

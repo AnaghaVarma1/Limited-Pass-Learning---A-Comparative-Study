@@ -1,0 +1,3 @@
+model_variant,discriminative_weight_initialisation,intended_reference_behaviour,KDB_equivalent_at_initialisation,generative_theta_frozen,finite_difference_gradient_test_passed,prediction_backoff_policy,notes
+dKDB-current,0,paper-studied zero initialization; repository trained path,no (uniform before update; API D=0 separately returns KDB),yes,True,omit backed-off factor lacking a learned weight,max gradient error=3.91e-11
+dKDB-generative-init,1,paper-studied generative-estimate initialization,yes,yes,True,use neutral w=1 for backed-off generative factor,not a repository fix; isolated diagnostic variant

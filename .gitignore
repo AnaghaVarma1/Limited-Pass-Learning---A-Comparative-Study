@@ -4,3 +4,8 @@ __pycache__/
 KDB family runtime-optimized cache/
 KDB family benchmark cache/
 controlled k sensitivity cache/
+dkdb overfitting diagnostic cache/
+.ipynb_checkpoints/
+*.npy
+*.pkl
+results/dkdb_completed_datasets_2026-09-28/

@@ -1,0 +1,74 @@
+{
+  "adagrad_epsilon": 1e-09,
+  "backoff": {
+    "dKDB-current": "repository omission when backed-off factor has no weight",
+    "dKDB-generative-init": "neutral weight 1 for backed-off generative factor"
+  },
+  "controlled_notebook_sha256": "246e387f18cb09fcec12e084b523d3ea830db65e4bbb137215379bbc06083201",
+  "experiment": "dkdb-overfitting-generalisation-diagnostic",
+  "fixed_learning_rate": 0.01,
+  "inner_validation_fraction": 0.2,
+  "learning_rate_grid": [
+    0.001,
+    0.003,
+    0.01,
+    0.03,
+    0.1
+  ],
+  "mode": "PRIMARY",
+  "mode_config": {
+    "datasets": [
+      "Skin Segmentation",
+      "cod-rna",
+      "Localization",
+      "PokerHand",
+      "TwitterAbsoluteSigma",
+      "MiniBooNE",
+      "Covertype",
+      "CensusIncome"
+    ],
+    "folds": 2,
+    "k_values": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "max_pass": 20,
+    "order_seeds": [
+      0
+    ],
+    "outer_split_limit": null,
+    "rounds": 2,
+    "row_limits": {},
+    "sample_fractions": [
+      1.0
+    ],
+    "scope": "primary 2 rounds x 2 folds trajectory",
+    "select_learning_rate": true
+  },
+  "optimizer": "adagrad",
+  "prediction_engine_version": "compiled-factor-plan-v3-precomputed-training-ids",
+  "preprocessing": "fold/subset-fitted supervised MDL or repository MixedFoldDiscretizer",
+  "reference_code_sha256": "490f7a07ca216db39a232ae7cb46fc7bbf4ecbb811de1ae7264d092ed0890d6c",
+  "reference_notebook_sha256": "62e1a4fe2c89f019fe82ac595bd08410153cbd462b1d39c49774532249d1e3a5",
+  "repository_commit": "6a089a475edec1700222e85f5055d8923119de39",
+  "schema": 5,
+  "seed": 5,
+  "test_checkpoints": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    10,
+    15,
+    20
+  ],
+  "variants": [
+    "dKDB-current",
+    "dKDB-generative-init"
+  ]
+}
